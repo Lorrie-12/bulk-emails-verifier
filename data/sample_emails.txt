@@ -1,0 +1,12 @@
+# Sample email list for Bulk Emails Verifier
+# Lines starting with # are ignored.
+
+valid.personal@example.com
+noreply@github.com
+contact@yourcompany.co
+fake-domain@this-domain-should-not-exist-12345.com
+test@mailinator.com
+user@gmail.com
+info@yahoo.com
+invalid-email-without-at-symbol
+another.invalid.@domain
